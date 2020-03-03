@@ -4,8 +4,9 @@
 2) update your system
 ```
 sudo apt update &&
-sudo apt -y upgrade &&
+sudo apt -y upgrade
 ```
+Note: Select `install the package maintainer's version` when prompted
 
 3) set account password to access CRD once established
     - `sudo passwd ubuntu` (or other username)
