@@ -6,12 +6,12 @@
 sudo apt update &&
 sudo apt -y upgrade
 ```
-Note: Select `install the package maintainer's version` when prompted
-
 3) set account password to access CRD once established
     - `sudo passwd ubuntu` (or other username)
 4) Install xfce4
     - `sudo apt -y install xfce4`
+Note: Select `install the package maintainer's version` when prompted
+
 5) Reboot your instance (easiest to do this through the web interface)
 6) Follow instructions [here](https://remotedesktop.google.com/headless) to install CRD
     - download CRD 
