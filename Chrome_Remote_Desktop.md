@@ -34,5 +34,15 @@ Note: Select `install the package maintainer's version` when prompted
     
         `sudo apt-get install firefox`
     - to install atom 
-    
-        `sudo apt-get install atom`
+        ```
+        sudo add-apt-repository ppa:webupd8team/atom
+        sudo apt-get update
+        sudo apt-get install atom
+    - to install java
+        ```
+        sudo apt-get -y install default-jdk
+    - to pull cromwell
+        ```
+        wget https://github.com/broadinstitute/cromwell/releases/download/49/cromwell-49.jar
+        wget https://github.com/broadinstitute/cromwell/releases/download/49/womtool-49.jar
+
