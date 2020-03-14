@@ -3,14 +3,11 @@
 1) Launch Ubuntu Instance
 2) update your system
 ```
-sudo apt update &&
-sudo apt -y upgrade
+sudo apt-get update &&
+sudo apt-get upgrade
 ```
-3) set account password to access CRD once established
-    - `sudo passwd ubuntu` (or other username)
-4) Install xfce4
-    - `sudo apt -y install xfce4`
-Note: Select `install the package maintainer's version` when prompted
+3) Install xfce4
+    - `sudo apt-get -y install xfce4`
 
 5) Reboot your instance (easiest to do this through the web interface)
 6) Follow instructions [here](https://remotedesktop.google.com/headless) to install CRD
@@ -19,7 +16,7 @@ Note: Select `install the package maintainer's version` when prompted
         `wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb`
     - install deb file 
     
-        `sudo dpkg -i chrome-remote-desktop_current_amd64.deb`
+        `sudo apt-get -y install chrome-remote-desktop_current_amd64.deb`
     - authorize CRD to set up a new computer (click authorize)
     - set up another computer by copy/paste code into remote computer. Should look something like below:
         ```
@@ -32,12 +29,12 @@ Note: Select `install the package maintainer's version` when prompted
 9) On your remote desktop
     - if you want to access the internet, install firefox 
     
-        `sudo apt-get install firefox`
+        `sudo apt-get -y install firefox`
     - to install atom 
         ```
         sudo add-apt-repository ppa:webupd8team/atom
         sudo apt-get update
-        sudo apt-get install atom
+        sudo apt-get -y install atom
     - to install java
         ```
         sudo apt-get -y install default-jdk
