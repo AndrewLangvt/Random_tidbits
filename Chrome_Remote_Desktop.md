@@ -16,7 +16,7 @@ sudo apt-get upgrade
         `wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb`
     - install deb file 
     
-        `sudo apt-get -y install chrome-remote-desktop_current_amd64.deb`
+        `sudo apt-get -y install ./chrome-remote-desktop_current_amd64.deb`
     - authorize CRD to set up a new computer (click authorize)
     - set up another computer by copy/paste code into remote computer. Should look something like below:
         ```
