@@ -13,7 +13,7 @@
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.7.PNG?raw=true" width="500" height="300" />
 </p>
   
-You have successfully downloaded & extracted MobaXterm. You can now move the `.exe` file onto your Desktop for easier use in the future. 
+#### You have successfully downloaded & extracted MobaXterm. You can now move the `.exe` file onto your Desktop for easier use in the future. 
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.8.PNG?raw=true" width="500" height="300" />
 </p>
