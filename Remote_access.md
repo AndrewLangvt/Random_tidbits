@@ -2,6 +2,10 @@
 
 ## 1) Download & extract the free version of MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
 
+<p align="center"> 
+<img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.PNG?raw=true" width="500" height="300" />
+</p>
+
 NOTE: when selecting location for extraction, it doesn't really matter where you place it on your local machine. I like to place portable executables (which this is) on my Desktop so I can easily remove them entirely, if desired. 
 
 ## 2) Establish a new session
