@@ -5,9 +5,13 @@
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.PNG?raw=true" width="500" height="300" />
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.5.PNG?raw=true" width="500" height="300" />
+</p>
+
+Double click the `MobaXterm_Portable_v##.zip` folder and extract it. Then move the `.exe` file onto your Desktop. 
+<p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.6.PNG?raw=true" width="500" height="300" />
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.7.PNG?raw=true" width="500" height="300" />
-
+<img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.8.PNG?raw=true" width="500" height="300" />
 </p>
 
 NOTE: when selecting location for extraction, it doesn't really matter where you place it on your local machine. I like to place portable executables (which this is) on my Desktop so I can easily remove them entirely, if desired. 
