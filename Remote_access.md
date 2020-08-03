@@ -4,7 +4,7 @@
 
 NOTE: when selecting location for extraction, it doesn't really matter where you place it on your local machine. I like to place portable executables (which this is) on my Desktop so I can easily remove them entirely, if desired. 
 
-## 2) Establish a new session with Prometheus
+## 2) Establish a new session
 
 ### A. Open MobaXterm & select "Session"
 <p align="center"> 
