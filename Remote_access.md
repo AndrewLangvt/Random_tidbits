@@ -1,15 +1,24 @@
 # Connecting to a remote host via Your Windows Machine
 
-## 1) Download & extract the free portable version of MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
+## 1) Download MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
 
+A) Click "Download Now" under "Home Edition"
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.PNG?raw=true" width="500" height="300" />
+</p>
+
+B) Click "MobaXterm Home Edition v20.3 (Portable edition)"
+<p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.5.PNG?raw=true" width="500" height="300" />
 </p>
 
-#### Double click the `MobaXterm_Portable_v##.zip` folder and double click `MobaXterm_Portable_v##.exe`. This will prompt you to select `Extract all`.
+#### Extract MobaXterm
+A) Double click the `MobaXterm_Portable_v##.zip` folder and double click `MobaXterm_Portable_v##.exe`. This will prompt you to select `Extract all`.
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.6.PNG?raw=true" width="500" height="300" />
+</p>
+B) Select the folder pathway where you would like to place MobaXterm
+<p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.7.PNG?raw=true" width="500" height="300" />
 </p>
   
