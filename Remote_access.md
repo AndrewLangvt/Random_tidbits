@@ -1,6 +1,6 @@
 # Connecting to a remote host via Your Windows Machine
 
-## 1) Download & install the free version of MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
+## 1) Download & extract the free version of MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
 
 NOTE: when selecting location for extraction, it doesn't really matter where you place it on your local machine. I like to place portable executables (which this is) on my Desktop so I can easily remove them entirely, if desired. 
 
