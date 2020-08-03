@@ -7,7 +7,7 @@
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.5.PNG?raw=true" width="500" height="300" />
 </p>
 
-Double click the `MobaXterm_Portable_v##.zip` folder and extract it. Then move the `.exe` file onto your Desktop. 
+#### Double click the `MobaXterm_Portable_v##.zip` folder and select `Extract all`. Then move the `.exe` file onto your Desktop. 
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.6.PNG?raw=true" width="500" height="300" />
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.7.PNG?raw=true" width="500" height="300" />
