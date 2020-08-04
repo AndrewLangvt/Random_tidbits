@@ -1,4 +1,4 @@
-# Connecting to a remote host via Your Windows Machine
+# Connecting to a remote host from Your Windows Machine
 
 ## 1) Download MobaXterm [here](https://mobaxterm.mobatek.net/download.html)
 
