@@ -50,6 +50,9 @@ NOTE: when selecting location for extraction, it doesn't really matter where you
 </p>
 
 ### D. Command line prompt
+<p align="center"> 
+<img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_4.PNG?raw=true" width="700" height="400" />
+</p>
   - NAVIGATION: move about your remote machine either via CLI commands (`cd`, `ls`, `cp`) or by using the folder directory on the left side of MobaXterm
   - FILE TRANSFER: copy files to/from your local machine by dragging & dropping the file to/from the folder directory on the left side of MobaXterm
   - START GUI APPLICATIONS
@@ -60,9 +63,6 @@ NOTE: when selecting location for extraction, it doesn't really matter where you
     - When you highlight anything in the terminal, it is automatically held on the clipboard to be pasted 
           (`ctrl` + `c` will kill any running processes instead- not what you want)
     - to paste into the terminal window, you simply right click and select paste (MobaXterm allows you to press `shift` + `insert` by default)
-<p align="center"> 
-<img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_4.PNG?raw=true" width="700" height="400" />
-</p>
 
 ## 3. Your next session
 The next time you open MobaXterm, you'll see your saved sessions on the left-hand side. Double click the desired session and it will automatically open your remote connection.
