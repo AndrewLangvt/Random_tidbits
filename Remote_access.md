@@ -53,6 +53,7 @@ NOTE: when selecting location for extraction, it doesn't really matter where you
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_4.PNG?raw=true" width="700" height="400" />
 </p>
+
   - NAVIGATION: move about your remote machine either via CLI commands (`cd`, `ls`, `cp`) or by using the folder directory on the left side of MobaXterm
   - FILE TRANSFER: copy files to/from your local machine by dragging & dropping the file to/from the folder directory on the left side of MobaXterm
   - START GUI APPLICATIONS
