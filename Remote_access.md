@@ -13,7 +13,7 @@ B) Click "MobaXterm Home Edition v20.3 (Portable edition)"
 </p>
 
 #### Extract MobaXterm
-A) Double click the `MobaXterm_Portable_v##.zip` folder and double click `MobaXterm_Portable_v##.exe`. This will prompt you to select `Extract all`.
+A) Double click the `MobaXterm_Portable_v##.zip` folder and double click `MobaXterm_Portable_##.exe`. This will prompt you to select `Extract all`.
 <p align="center"> 
 <img src="https://github.com/AndrewLangvt/Random_tidbits/blob/master/image_hosting/MobaXterm_0.6.PNG?raw=true" width="500" height="300" />
 </p>
