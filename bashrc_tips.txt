@@ -1,0 +1,18 @@
+# User specific aliases and functions
+alias showpath='echo $PATH | tr ":" "\n" | nl'
+alias refresh="source ~/.bashrc"
+alias ..='cd ..'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
+alias ......='cd ../../../../../'
+alias tarup="tar -zcf"
+alias tardown="tar -zxf"
+alias memory='for i in $(ls); do du -sh $i; done'
+alias shit='echo && echo "¯\_(ツ)_/¯" && echo'
+
+function format () { column -ts $'\t' "$1" | less -S; }
+function formatc () { column -ts $',' "$1" | less -S; }
+function docker_run() { docker run --rm=True -u $(id -u):$(id -g) -v $(pwd):/data "$@"; }
+function read_length() { cat "$1" | awk '{if(NR%4==2) print length($1)}' | sort -n | uniq -c; }
+function zread_length() { zcat "$1" | awk '{if(NR%4==2) print length($1)}' | sort -n | uniq -c; }
