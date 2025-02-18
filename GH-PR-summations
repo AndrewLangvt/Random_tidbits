@@ -1,0 +1,5 @@
+# return PRs closed in the past week
+(echo "Title| Author| PR #"; gh pr list --state open --search "review:required" --limit 100 --json title,url,author,number | jq -r '.[] | "\(.title | @text | .[0:120]) | \(.author.login) | [#\(.number)](\(.url))"') | column -t -s '|'
+
+# return open PRs (not draft), awaiting review
+(echo "Title| URL"; gh pr list --state open --search "review:required" --limit 100 --json title,url,isDraft | jq -r '.[] | select(.isDraft == false) | "\(.title | @text | .[0:80]) | \(.url)"') | column -t -s '|'
